@@ -5,10 +5,13 @@
 
 /*
 *main - main block
-*description assign randon number to variable
+*description: assign randon number to variable
+*print if if positive negative or zero
 *Return: 0
 */
-int main(void)
+main()
+
+int main(void)/* main description */
 
 {
 int n;
